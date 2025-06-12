@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What is the Nexus course?",
+    "answer": "Nexus is a paid, live, in-depth web development, blockchain development and HLD System Design course designed by Rohit. and also you will get the DSA in C++ paid course free with Nexus course. and the DSA course is not live you will get the recording of DSA course."
+  },
+  {
+    "id": 2,
+    "question": "Is the Nexus course free or paid?",
+    "answer": "It is a paid course. Regular price is ₹6000, but a limited-time offer is available for ₹4000."
+  },
+  {
+    "id": 3,
+    "question": "How much does the Nexus course cost and when does the offer end?",
+    "answer": "The course costs ₹6000, but there's an early bird offer of ₹4000 which ends tonight at 12:00 AM."
+  },
+  {
+    "id": 4,
+    "question": "Is the Nexus course live or recorded?",
+    "answer": "The course will be live to ensure real-time interaction and error-solving with students."
+  },
+  {
+    "id": 5,
+    "question": "How is the Nexus course different from Udemy courses?",
+    "answer": "Nexus offers deeper, hands-on, live learning including internal workings and real-world project applications. Udemy is more generic."
+  },
+  {
+    "id": 6,
+    "question": "What is covered in the course content?",
+    "answer": "Web Development (HTML, CSS, JS, React, Node.js, MongoDB, APIs), Blockchain (Ethereum, Solana, Smart Contracts), Real-world projects."
+  },
+  {
+    "id": 7,
+    "question": "What is the validity of the Nexus course?",
+    "answer": "The course is valid for 3 years."
+  },
+  {
+    "id": 8,
+    "question": "How can I enroll in the Nexus course?",
+    "answer": "You can enroll via the website or Coder Army app. A direct link is provided in the video description."
+  },
+  {
+    "id": 9,
+    "question": "When does the Nexus course start and what are the class timings?",
+    "answer": "The course starts from 16th September, 2024. Classes are from 9 PM to 10 PM, Monday to Friday."
+  },
+  {
+    "id": 10,
+    "question": "Is the Nexus course suitable for complete beginners in coding?",
+    "answer": "Yes, it's beginner-friendly and starts from internet basics before diving into programming."
+  },
+  {
+    "id": 11,
+    "question": "Who should not take this course?",
+    "answer": "Students preparing for GATE, those who already have a web dev course, or those unfamiliar with Rohit's teaching style."
+  },
+  {
+    "id": 12,
+    "question": "Will I get a certificate after completing the course?",
+    "answer": "Yes, a certificate will be provided, but the main focus is on gaining real knowledge."
+  },
+  {
+    "id": 13,
+    "question": "Can I watch the course on my phone or laptop?",
+    "answer": "Yes, the course can be accessed via both mobile (Coder Army app) and laptop through the website."
+  },
+  {
+    "id": 14,
+    "question": "Why is the course not available for iOS users?",
+    "answer": "Because iOS takes a 30% cut on in-app purchases, so the course is only available on Android and web."
+  },
+  {
+    "id": 15,
+    "question": "What kind of projects are included in the course?",
+    "answer": "Real-world freelance projects used by the instructor, focused on earning and hands-on learning."
+  },
+  {
+    "id": 16,
+    "question": "Who will resolve my doubts and coding errors?",
+    "answer": "There will be dedicated Teaching Assistants (TAs) to help resolve doubts during and after live classes."
+  },
+  {
+    "id": 17,
+    "question": "Will MERN stack and Blockchain be launched separately?",
+    "answer": "No, both are integrated into one course to provide continuous and cohesive learning."
+  },
+  {
+    "id": 18,
+    "question": "Is EMI available for students?",
+    "answer": "Yes, EMI options are available during payment."
+  },
+  {
+    "id": 19,
+    "question": "What about international students facing payment issues?",
+    "answer": "Students from Pakistan and Bangladesh are facing temporary issues. A solution is being worked on."
+  },
+  {
+    "id": 20,
+    "question": "Is anything free for Coder Army students?",
+    "answer": "Yes, some dynamic programming, trie, and segment tree series are available for free via the Coder Army app."
+  }
+]

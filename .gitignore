@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.*.local
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Optional build/output folders
+dist/
+build/
+tmp/
+temp/
+
+# Coverage
+coverage/
+
+# EJS cache (if used in production environments)
+*.ejs-cache
+
+# Optional: if you compile EJS templates into HTML
+*.html
