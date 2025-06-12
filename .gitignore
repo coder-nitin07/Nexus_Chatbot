@@ -43,5 +43,4 @@ coverage/
 # EJS cache (if used in production environments)
 *.ejs-cache
 
-# Optional: if you compile EJS templates into HTML
-*.html
+
